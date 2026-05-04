@@ -104,13 +104,11 @@ Before you can use serial console, you need a user with password authentication:
    sudo systemctl restart sshd
    ```
 
-### 3.2 Enable and Use EC2 Serial Console
+### 3.2 Use EC2 Serial Console
 1. Go to **EC2 Dashboard** → **Instances**
 2. Select your instance
-3. Click **Actions** → **Monitor and troubleshoot** → **EC2 Serial Console**
-4. If not enabled, follow the prompts to enable it for your account
-5. Login with the admin user you created
-6. Press **Enter** a few times to get the login prompt
+3. Click **Connection** → **at the last option** → **EC2 Serial Console**
+4. Login with the admin user you created
 
 ---
 
