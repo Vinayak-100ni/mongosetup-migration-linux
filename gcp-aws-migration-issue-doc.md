@@ -301,7 +301,3 @@ sudo ss -tlnp | grep :22
 - [EC2 Serial Console](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-serial-console.html)
 
 ---
-
-**Document Version:** 1.0  
-**Last Updated:** May 2026  
-**Maintained by:** DevOps Team
